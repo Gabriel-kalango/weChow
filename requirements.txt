@@ -1,0 +1,14 @@
+Flask
+Flask-JWT-Extended
+Flask-Migrate
+flask-restx
+gunicorn
+pytest
+python-decouple
+python-dotenv
+SQLAlchemy
+flask-reuploaded
+marshmallow
+flask-socketio
+Werkzeug
+psycopg2
